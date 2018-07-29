@@ -1,0 +1,10 @@
+---
+name: ChatScrambler
+version: 1.0.0
+main: ChatScrambler\Main
+api: 3.1.1
+depend: EconomyAPI
+author: ArceusMatt
+description: Unscrambler messages for money!
+website: https://github.com/arceusmatt
+...

@@ -1,0 +1,12 @@
+---
+minutes-to-scramble: 30
+min-price: 1000
+max-price: 5000
+scramble-words:
+- pumpkin
+- herobrine
+- minecraft
+- player
+- dragon
+- pig
+...
